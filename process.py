@@ -15,11 +15,15 @@ def process_file(input_file_path, output_file_path):
     count = 1
     with open(input_file_path, 'r') as input_file, open(output_file_path, 'w') as output_file:
         for line in input_file:
-            print("Processing brand count: {}".format(count))
-            processed_lines = process_line(line)
-            for processed_line in processed_lines:
-                output_file.write("{}\n".format(processed_line))
-            count = count + 1
+            try:
+                print("Processing brand count: {}".format(count))
+                processed_lines = process_line(line)
+                for processed_line in processed_lines:
+                    output_file.write("{}\n".format(processed_line))
+                count = count + 1
+            except:
+                print("Error while processing: {}".format(line))
+            output_file.write("{}\n".format("error while processing"))
 
 # Example usage (paths need to be adjusted as per the actual file locations)
 input_path = 'input_file.txt'
