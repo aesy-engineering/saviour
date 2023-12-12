@@ -7,7 +7,7 @@ def process_line(line):
     for final_base_query in final_base_query_list:
         final_query = "{} {}".format(clean_line, final_base_query)
         search_links = search_and_find_links(final_query)
-        final_results.append("{},{},{}".format(clean_line, final_base_query_list, search_links))
+        final_results.append("{},{},{}".format(clean_line, final_base_query, search_links))
     return final_results
 
 # Function to read from one file, process each line, and write to another file
