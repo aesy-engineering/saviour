@@ -1,5 +1,6 @@
 from finder import search_and_find_links
-from config import final_base_query_list
+from config import final_base_query_list,output_path,input_path,output_path_xlsx
+
 import pandas as pd
 
 def process_line(line):
@@ -22,6 +23,7 @@ def process_file(input_file_path, output_file_path, output_excel_path):
                 processed_lines = process_line(line)
                 for processed_line in processed_lines:
                     output_file.write("{}\n".format(processed_line))
+                    print("Saving data..")
                 count = count + 1
             except:
                 print("Error while processing: {}".format(line))
@@ -33,10 +35,7 @@ def convert_to_xlxs(input_file, output_file):
     df = pd.read_csv(input_file)
     df.to_excel(output_file, sheet_name="Leads", index=False)
 
-# Example usage (paths need to be adjusted as per the actual file locations)
-input_path = 'input_file.txt'
-output_path = 'output_file.csv'
-output_path_xlxs = 'output_file.xlsx'
+
 
 # Call the function
-process_file(input_path, output_path, output_path_xlxs)
+process_file(input_path, output_path, output_path_xlsx)
