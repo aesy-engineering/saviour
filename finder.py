@@ -7,6 +7,6 @@ def search_and_find_links(search_query):
     results = search(search_query, num_results=number_of_results)
     print("In delay ...")
     time.sleep(delay_in_seconds)
-    print("Completing delay ...")
+    #print("Completing delay ...")
     yielded = list(results)
-    return ",".join(yielded)
+    return yielded

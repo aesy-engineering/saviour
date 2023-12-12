@@ -1,8 +1,18 @@
-Fat Brain Toys,Chief Marketing Officer linkedIn,https://www.linkedin.com/company/fat-brain-toys,https://www.linkedin.com/in/mark-carson-8baa646,https://www.linkedin.com/in/diane-schumacher-22467b51,https://www.linkedin.com/in/kelly-fritz-926833217,https://www.linkedin.com/in/ranaschenke
-Fat Brain Toys,VP Marketing linkedIn,https://www.linkedin.com/company/fat-brain-toys,https://www.linkedin.com/in/mark-carson-8baa646,https://www.linkedin.com/in/diane-schumacher-22467b51,https://www.linkedin.com/in/danielleparde,https://www.linkedin.com/in/kelly-fritz-926833217
-Fat Brain Toys,Director Marketing linkedIn,https://www.linkedin.com/company/fat-brain-toys,https://www.linkedin.com/in/mark-carson-8baa646,https://www.linkedin.com/in/danielleparde,https://www.linkedin.com/in/diane-schumacher-22467b51,https://www.linkedin.com/in/kelly-fritz-926833217
-Fat Brain Toys,Marketing Manager linkedIn,https://www.linkedin.com/in/danielleparde,https://www.linkedin.com/company/fat-brain-toys,https://www.linkedin.com/in/mark-carson-8baa646,https://www.linkedin.com/in/ranaschenke,https://www.linkedin.com/in/diane-schumacher-22467b51
-Melissa & Doug,Chief Marketing Officer linkedIn,https://www.linkedin.com/in/bridgette-farrell-miller-97054a9,https://www.linkedin.com/in/hollyguzman,https://www.linkedin.com/in/michaeljmonteleone,https://www.linkedin.com/in/fernandomerc%C3%A9,https://www.linkedin.com/in/mselcher
-Melissa & Doug,VP Marketing linkedIn,https://www.linkedin.com/in/michaeljmonteleone,https://www.linkedin.com/in/hollyguzman,https://www.linkedin.com/in/bridgette-farrell-miller-97054a9,https://www.linkedin.com/in/jennifer-bookert,https://uk.linkedin.com/in/david-lubliner-2406a04
-Melissa & Doug,Director Marketing linkedIn,https://www.linkedin.com/in/hollyguzman,https://www.linkedin.com/in/michaeljmonteleone,https://www.linkedin.com/in/bridgette-farrell-miller-97054a9,https://uk.linkedin.com/in/david-lubliner-2406a04,https://www.linkedin.com/in/fernandomerc%C3%A9
-Melissa & Doug,Marketing Manager linkedIn,https://www.linkedin.com/in/hollyguzman,https://www.linkedin.com/in/jennifer-bookert,https://www.linkedin.com/in/katie-mahoney-0b35b668,https://uk.linkedin.com/in/david-lubliner-2406a04
+100% Pure,Chief Marketing Officer linkedIn,https://www.linkedin.com/in/lisa-hart-campbell
+100% Pure,Chief Marketing Officer linkedIn,https://www.linkedin.com/in/bobpurcellmarketing
+100% Pure,Chief Marketing Officer linkedIn,https://www.linkedin.com/in/catherine-uhalde-6899455b
+100% Pure,Chief Marketing Officer linkedIn,https://www.linkedin.com/in/henson
+100% Pure,Chief Marketing Officer linkedIn,https://sg.linkedin.com/in/aruncavale
+100% Pure,VP Marketing linkedIn,https://www.linkedin.com/in/catherine-uhalde-6899455b
+100% Pure,VP Marketing linkedIn,https://www.linkedin.com/in/bobpurcellmarketing
+100% Pure,VP Marketing linkedIn,https://in.linkedin.com/in/aman-prakash-40b39942
+100% Pure,VP Marketing linkedIn,https://au.linkedin.com/in/orla-hanby
+100% Pure,VP Marketing linkedIn,https://in.linkedin.com/in/pranayrao
+100% Pure,Director Marketing linkedIn,https://www.linkedin.com/company/purity-cosmetics
+100% Pure,Director Marketing linkedIn,https://au.linkedin.com/in/orla-hanby
+100% Pure,Director Marketing linkedIn,https://www.linkedin.com/in/prakashdarji
+100% Pure,Director Marketing linkedIn,https://in.linkedin.com/in/nupursharma1
+100% Pure,Marketing Manager linkedIn,https://www.linkedin.com/in/catherine-uhalde-6899455b
+100% Pure,Marketing Manager linkedIn,https://www.linkedin.com/company/purity-cosmetics
+100% Pure,Marketing Manager linkedIn,https://www.linkedin.com/in/susie-wang-04053386
+100% Pure,Marketing Manager linkedIn,https://www.linkedin.com/in/lauren-neth-4b810a203

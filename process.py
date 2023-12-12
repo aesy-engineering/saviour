@@ -7,7 +7,8 @@ def process_line(line):
     for final_base_query in final_base_query_list:
         final_query = "{} {}".format(clean_line, final_base_query)
         search_links = search_and_find_links(final_query)
-        final_results.append("{},{},{}".format(clean_line, final_base_query, search_links))
+        for search_link in search_links:
+            final_results.append("{},{},{}".format(clean_line, final_base_query, search_link))
     return final_results
 
 # Function to read from one file, process each line, and write to another file
@@ -23,7 +24,7 @@ def process_file(input_file_path, output_file_path):
                 count = count + 1
             except:
                 print("Error while processing: {}".format(line))
-            output_file.write("{}\n".format("error while processing"))
+                output_file.write("{}\n".format("error while processing"))
 
 # Example usage (paths need to be adjusted as per the actual file locations)
 input_path = 'input_file.txt'
